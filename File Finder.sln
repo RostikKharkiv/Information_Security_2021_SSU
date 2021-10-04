@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31313.79
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "File Finder", "File Finder\File Finder.csproj", "{EA2C90FF-0CA9-4607-986D-59E6DDF81453}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA2C90FF-0CA9-4607-986D-59E6DDF81453}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA2C90FF-0CA9-4607-986D-59E6DDF81453}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA2C90FF-0CA9-4607-986D-59E6DDF81453}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA2C90FF-0CA9-4607-986D-59E6DDF81453}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {25D831ED-7D89-4FD9-BD6B-D969C876A629}
+	EndGlobalSection
+EndGlobal
